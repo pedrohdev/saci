@@ -1,0 +1,24 @@
+{
+  "name": "saci",
+  "version": "1.0.0",
+  "description": "Inmplementação do Ambiente Saci para Node.js 🌪️",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Saci",
+    "Ambiente saci",
+    "saci",
+    "OLIMPÍADA BRASILEIRA DE INFORMÁTICA",
+    "obi",
+    "OBI"
+  ],
+  "author": "“pedrohdev” <pedrohenriquedos.s.v@gmail.com>",
+  "license": "“MIT”",
+  "dependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.4",
+    "puppeteer": "^10.0.0"
+  }
+}

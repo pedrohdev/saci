@@ -1,6 +1,6 @@
 {
-  "name": "sacii",
-  "version": "1.0.0",
+  "name": "saaci",
+  "version": "1.0.1",
   "description": "Implementação do Ambiente Saci para Node.js 🌪️",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/PedroHdev/sacii"
+    "url": "git://github.com/PedroHdev/saci"
   },
   "keywords": [
     "Saci",

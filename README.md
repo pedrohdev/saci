@@ -24,13 +24,13 @@
 
 
 
-<h1 align="center">Como instalar? :rocket:</h1>
+<h2 align="center">Como instalar? :rocket:</h2>
 
 ```
 $ npm install saaci
 ```
 
-<h1 align="center">Como usar? 💻</h1>
+<h2 align="center">Como usar? 💻</h2>
 
 
 ```js

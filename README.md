@@ -5,17 +5,17 @@
 <h1 align="center">Ambiente Saci 🌪️</h1>
 
 <p align="center">
-  <a href="https://travis-ci.com/PedroHdev/saci/">
-    <img src="https://travis-ci.com/PedroHdev/saci/.svg?branch=master">
+  <a href="https://travis-ci.com/PedroHdev/sacii/">
+    <img src="https://travis-ci.com/PedroHdev/sacii/.svg?branch=master">
   </a>
-  <a href='https://coveralls.io/github/PedroHdev/saci/'>
-    <img src='https://coveralls.io/repos/github/PedroHdev/saci/badge.svg' alt='Coverage Status' />
+  <a href='https://coveralls.io/github/PedroHdev/sacii/'>
+    <img src='https://coveralls.io/repos/github/PedroHdev/sacii/badge.svg' alt='Coverage Status' />
   </a>
-  <a href="https://www.npmjs.com/package/saci">
-    <img src="https://badge.fury.io/js/saci.svg">
+  <a href="https://www.npmjs.com/package/sacii">
+    <img src="https://badge.fury.io/js/sacii.svg">
   </a>
-  <a href="https://snyk.io/test/github/PedroHdev/saci/">
-  <img src="https://snyk.io/test/github/PedroHdev/saci/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/filipedeschamps/rss-feed-emitter" style="max-width:100%;">
+  <a href="https://snyk.io/test/github/PedroHdev/sacii/">
+  <img src="https://snyk.io/test/github/PedroHdev/sacii/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/PedroHdev/sacii/badge.svg" style="max-width:100%;">
   </a>
 </p>
 <p align="center">

@@ -1,7 +1,7 @@
 {
-  "name": "saci",
+  "name": "sacii",
   "version": "1.0.0",
-  "description": "Inmplementação do Ambiente Saci para Node.js 🌪️",
+  "description": "Implementação do Ambiente Saci para Node.js 🌪️",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest"

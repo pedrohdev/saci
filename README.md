@@ -27,14 +27,14 @@
 <h1 align="center">Como instalar? :rocket:</h1>
 
 ```
-$ npm install saci
+$ npm install sacii
 ```
 
 <h1 align="center">Como usar? 💻</h1>
 
 
 ```js
-const Saci = require("saci");
+const Saci = require("sacii");
 const fs = require("fs");
 const drone = fs.readFileSync(`${__dirname}/drone.js`, 'utf8'); // Lê o exercício, é necessário o 'utf8'
 

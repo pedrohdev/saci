@@ -5,17 +5,8 @@
 <h1 align="center">Ambiente Saci 🌪️</h1>
 
 <p align="center">
-  <a href="https://travis-ci.com/PedroHdev/saaci/">
-    <img src="https://travis-ci.com/PedroHdev/saaci/.svg?branch=master">
-  </a>
-  <a href='https://coveralls.io/github/PedroHdev/saaci/'>
-    <img src='https://coveralls.io/repos/github/PedroHdev/saaci/badge.svg' alt='Coverage Status' />
-  </a>
   <a href="https://www.npmjs.com/package/saaci">
     <img src="https://badge.fury.io/js/saaci.svg">
-  </a>
-  <a href="https://snyk.io/test/github/PedroHdev/saaci/">
-  <img src="https://snyk.io/test/github/PedroHdev/saaci/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/PedroHdev/saaci/badge.svg" style="max-width:100%;">
   </a>
 </p>
 <p align="center">

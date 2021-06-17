@@ -5,17 +5,17 @@
 <h1 align="center">Ambiente Saci 🌪️</h1>
 
 <p align="center">
-  <a href="https://travis-ci.com/PedroHdev/sacii/">
-    <img src="https://travis-ci.com/PedroHdev/sacii/.svg?branch=master">
+  <a href="https://travis-ci.com/PedroHdev/saaci/">
+    <img src="https://travis-ci.com/PedroHdev/saaci/.svg?branch=master">
   </a>
-  <a href='https://coveralls.io/github/PedroHdev/sacii/'>
-    <img src='https://coveralls.io/repos/github/PedroHdev/sacii/badge.svg' alt='Coverage Status' />
+  <a href='https://coveralls.io/github/PedroHdev/saaci/'>
+    <img src='https://coveralls.io/repos/github/PedroHdev/saaci/badge.svg' alt='Coverage Status' />
   </a>
-  <a href="https://www.npmjs.com/package/sacii">
-    <img src="https://badge.fury.io/js/sacii.svg">
+  <a href="https://www.npmjs.com/package/saaci">
+    <img src="https://badge.fury.io/js/saaci.svg">
   </a>
-  <a href="https://snyk.io/test/github/PedroHdev/sacii/">
-  <img src="https://snyk.io/test/github/PedroHdev/sacii/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/PedroHdev/sacii/badge.svg" style="max-width:100%;">
+  <a href="https://snyk.io/test/github/PedroHdev/saaci/">
+  <img src="https://snyk.io/test/github/PedroHdev/saaci/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/PedroHdev/saaci/badge.svg" style="max-width:100%;">
   </a>
 </p>
 <p align="center">
@@ -24,17 +24,17 @@
 
 
 
-<h1 align="center">Como instalar? :rocket:</h1>
+<h2 align="center">Como instalar? :rocket:</h2>
 
 ```
-$ npm install sacii
+$ npm install saaci
 ```
 
-<h1 align="center">Como usar? 💻</h1>
+<h2 align="center">Como usar? 💻</h2>
 
 
 ```js
-const Saci = require("sacii");
+const Saci = require("saaci");
 const fs = require("fs");
 const drone = fs.readFileSync(`${__dirname}/drone.js`, 'utf8'); // Lê o exercício, é necessário o 'utf8'
 

@@ -1,14 +1,17 @@
 const Browser = require("../lib/services/Browser")
 
-jest.setTimeout(10000)
+jest.setTimeout(20000)
 
-test("Must not be received false", () => {
-    return new Browser(`
-        var input;
+test("Must be received two", () => {
+    return new Browser({
+        input: 2,
+        code: `
+            var input;
 
-        scanf("%d", "input")
-        printf("%d", input)
-    `, 2, 2)
-    .then(({ fail }) => expect(fail).toBe(false))
+            scanf("%d", "input")
+            printf("%d", input)
+        `
+    })
+    .then(output => expect(output).toEqual("2"))
         .catch(err => console.error(err))
 })

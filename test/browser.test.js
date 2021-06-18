@@ -12,6 +12,6 @@ test("Must be received two", () => {
             printf("%d", input)
         `
     })
-    .then(output => expect(output).toEqual("2"))
-        .catch(err => console.error(err))
+        .then(output => { expect(output).toEqual("2") })
+            .catch(err => console.error(err))
 })

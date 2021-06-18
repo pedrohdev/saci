@@ -10,7 +10,7 @@
   </a>
 </p>
 <p align="center">
- <a href="https://olimpiada.ic.unicamp.br/saci/cursos/intro_js/1/">Saci</a> é um ambiente de aprendizagem desenvolvido para o ensino de programação. Todas as soluções em Javascript da <a href="https://olimpiada.ic.unicamp.br/">OBI</a> devem ser feitos com ele, obedecendo os comandos de <code>scanf</code> e <code>printf</code> para entrada e saída, porem não existe nem um interpretador para node.js e por isso fiz essa implementação com <a href="https://www.npmjs.com/package/puppeteer">puppeteer</a>
+ <a href="https://olimpiada.ic.unicamp.br/saci/cursos/intro_js/1/">Saci</a> é um ambiente de aprendizagem desenvolvido para o ensino de programação. Todas as soluções em Javascript da <a href="https://olimpiada.ic.unicamp.br/">OBI</a> devem ser feitos com ele, obedecendo os comandos de <code>scanf</code> e <code>printf</code> para entrada e saída, porém não existe nenhum interpretador para node.js e por isso fiz essa implementação com <a href="https://www.npmjs.com/package/puppeteer">puppeteer</a>
 </p>
 
 

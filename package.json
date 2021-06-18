@@ -1,6 +1,6 @@
 {
   "name": "saaci",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Implementação do Ambiente Saci para Node.js 🌪️",
   "main": "lib/index.js",
   "scripts": {
